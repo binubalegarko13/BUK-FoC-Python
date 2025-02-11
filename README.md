@@ -29,4 +29,4 @@ This repository contains:
 ## 📌 Get Involved  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/Py-Kathon-25.git
+   git clone git@github.com:binubalegarko13/BUK-FoC-Python.git
