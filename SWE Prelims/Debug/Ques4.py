@@ -1,11 +1,11 @@
 #Study the Multiplication Table Above 
-print("""
-    General Multiplication Table
-  """)
-for i in range (1, 11):
-  for j in range (1,13):
-    print(i, "x", j , "=" , i * j)
-  print("\n")#To Print Space 
+# print("""
+#     General Multiplication Table
+#   """)
+# for i in range (1, 11):
+#   for j in range (1,13):
+#     print(i, "x", j , "=" , i * j)
+  # print("\n")#To Print Space 
 
 
 
@@ -22,6 +22,6 @@ while user_choice < 0:
   print("\n") #To Print Space 
 
 for i in range(13):
-  print(f"{user_choice x i} = {user_choice * i}")
+  print(f"{user_choice} X {i} = {user_choice * i}")
   
 print("\n") #To Print Space 

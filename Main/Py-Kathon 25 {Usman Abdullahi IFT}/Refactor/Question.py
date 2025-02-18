@@ -17,6 +17,10 @@ def main():
     if age >= 18:
         print(greeting + ", you are an adult.")
     else:
-        print("You are a  baby , i cant greet you 😎")
+        print(f"{greeting}, You are a Child")
 
 main()
+
+
+
+#By Usman Abdullahi (Information Technology Department)
